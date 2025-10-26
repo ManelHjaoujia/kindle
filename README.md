@@ -8,7 +8,7 @@
 ## Project Overview
 
 This project performs sentiment analysis on Kindle product reviews to classify review text into sentiment labels (e.g., positive / negative or rating-based classes).  
-The notebook demonstrates a full NLP workflow: data loading, exploratory data analysis (EDA), preprocessing, feature extraction (TF-IDF and/or embeddings), model training, evaluation, and error analysis. 
+The notebook demonstrates a full NLP workflow: data loading, exploratory data analysis (EDA), preprocessing, feature extraction (TF-IDF and/or embeddings), model training and evaluation. 
 
 ---
 
@@ -71,8 +71,6 @@ pip install -r requirements.txt
 * Applied robust preprocessing, vectorization, and classic ML classifiers.
 
 * Performed model evaluation with standard metrics and cross-validation.
-
-* Conducted error analysis to identify model weaknesses and next experiments.
 
 
 ### Author
