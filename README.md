@@ -43,11 +43,10 @@ The notebook contains the following key sections:
 ### Quick interpretation
 - TF-IDF + linear models are strong baselines for review sentiment due to frequent lexical cues.
 - Tree-based or embedding-based models can capture non-linear interactions or semantic similarity, useful when phrasing varies.
-- Transformer-based models (BERT) typically yield higher performance but require more compute and careful fine-tuning.
 
 ---
 
-## 🛠 How to run / Reproduce
+## How to run / Reproduce
 
 ### 1. Clone repository
 ```bash
